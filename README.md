@@ -1,2 +1,3 @@
-# shrink-me
+# shrink-it
+
 URL-Shortner
